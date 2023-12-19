@@ -47,6 +47,7 @@ textarea{
 #quote{
     margin: 50px 0 30px 0;
     text-align: justify;
+    color: black;
 }
 
 .wrapper{
