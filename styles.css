@@ -20,7 +20,7 @@ body{
     left: 50%;
     width: 50vw;
     padding: 50px 30px;
-    background-color: green;
+    background-color: skyblue;
     border-radius: 20px;
     box-shadow: 0 0 20px 5px rgba(255, 255, 255, 0.5);
 }
@@ -84,7 +84,8 @@ button{
     font-weight: 400;
     cursor: pointer;
     border: none;
-    background-color: skyblue;
+    background-color: black;
+    color: white;
 }
 
 .success{
